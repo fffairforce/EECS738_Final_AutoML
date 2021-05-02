@@ -1,5 +1,6 @@
 # EECS738_Final_AutoML
-team AUTOIT: Willy, Tiger, Jonathon, Rushil
+
+team AUTOIT: Willy, Tiger, Jonathon, Rushil, Jacob
 
 ## Final project description(AutoML)
 
