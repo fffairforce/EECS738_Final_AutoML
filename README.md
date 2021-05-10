@@ -3,6 +3,7 @@
 team AUTOIT: Willy, Tiger, Jonathon, Rushil, Jacob
 
 ## Final project description(AutoML)
+data available at:https://www.kaggle.com/alxmamaev/flowers-recognition
 
 ## Method
 
